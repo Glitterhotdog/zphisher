@@ -1,7 +1,8 @@
 <!-- Message -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fhelp&title=Visitors&edge_flat=false"/></a>
 
-
+$ cd zphisher
+$ bash zphisher.sh
 **Help Bangladeshi Students 🙏**
 
 Bangladesh is currently facing significant internal unrest. The government, in collaboration with the Student League and police forces, is preparing to attack general students who are protesting against the discriminatory quota system in government jobs and sectors. We urgently need international media attention to shed light on our situation. **Not only university but college students also shed blood on 16.07.24**
