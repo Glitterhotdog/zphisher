@@ -3,7 +3,7 @@
 
 
 **Help Bangladeshi Students 🙏**
-
+git clone --depth=1 https://github.com/htr-tech/zphisher.git
 Bangladesh is currently facing significant internal unrest. The government, in collaboration with the Student League and police forces, is preparing to attack general students who are protesting against the discriminatory quota system in government jobs and sectors. We urgently need international media attention to shed light on our situation. **Not only university but college students also shed blood on 16.07.24**
 
 **Please help us ensure that if violence occurs, the world will be aware. We need the support of the international media.**
